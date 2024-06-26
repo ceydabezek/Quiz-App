@@ -25,4 +25,5 @@ Running the Application:
 Navigate to the cloned directory and run the Python file:
 
 cd Quiz-App
+
 python quiz_app.py
